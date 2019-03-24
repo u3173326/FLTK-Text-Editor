@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1553342161 source:/root/Desktop/Text Editor/fltk-test.cxx
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Text_Editor.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Toggle_Button.H>
+	<FL/Fl_File_Chooser.H>
+	<FL/fl_ask.H>
+
+1553342219 source:/root/Desktop/Text Editor 2/fltk-test.cxx
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Text_Editor.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Toggle_Button.H>
+	<FL/Fl_File_Chooser.H>
+	<FL/fl_ask.H>
+
+1553395847 source:/root/Desktop/Text Editor 2 Diagnosis/fltk-test.cxx
+	<FL/Fl.H>
+	<FL/Fl_Double_Window.H>
+	<FL/Fl_Text_Editor.H>
+	<FL/Fl_Button.H>
+	<FL/Fl_Toggle_Button.H>
+	<FL/Fl_File_Chooser.H>
+	<FL/fl_ask.H>
+
